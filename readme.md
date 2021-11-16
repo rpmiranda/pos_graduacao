@@ -1,4 +1,4 @@
-# Título do Trabalho
+# Detecção de Anomalias em Séries Temporais de Dados de Sistemas de Compressão de Gás
 
 #### Alun(o/a): [Dijalma Fardin Junior](https://github.com/dijalma).
 #### Alun(o/a): [João Roberto Bastos Zoghbi Filho](https://github.com/Zoghbi1976).
